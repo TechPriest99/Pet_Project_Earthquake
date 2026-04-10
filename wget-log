@@ -1,0 +1,6 @@
+--2026-04-10 17:27:15--  https://download.jetbrains.com/python/pycharm-2026.1.tar.gz?_cl=MTsxOzE7emtmbm53VHV4eWdUeXpJdGUwYlk5RXNhdUFiYW5GRlhkdElsZkJtazVIZ1hxU0tXYXBOWFhBeUpjb2hWSWlFRDs=
+Resolving download.jetbrains.com (download.jetbrains.com)... 13.33.235.46, 13.33.235.53, 13.33.235.67, ...
+Connecting to download.jetbrains.com (download.jetbrains.com)|13.33.235.46|:443... connected.
+HTTP request sent, awaiting response... 451 Unknown
+2026-04-10 17:27:15 ERROR 451: Unknown.
+
